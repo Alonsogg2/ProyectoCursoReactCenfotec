@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProyectoCursoReactCenfotec/static/css/main.c1335a68.css",
+    "main.js": "/ProyectoCursoReactCenfotec/static/js/main.c95549cc.js",
+    "index.html": "/ProyectoCursoReactCenfotec/index.html",
+    "main.c1335a68.css.map": "/ProyectoCursoReactCenfotec/static/css/main.c1335a68.css.map",
+    "main.c95549cc.js.map": "/ProyectoCursoReactCenfotec/static/js/main.c95549cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1335a68.css",
+    "static/js/main.c95549cc.js"
+  ]
+}
