@@ -1,0 +1,12 @@
+.modalForm{
+	display: block;
+	align-items: center;
+}
+
+.buttonOpenModal{
+	margin-right: 30px;
+}
+
+.buttonCloseModal{
+	margin-top: 30px;
+}

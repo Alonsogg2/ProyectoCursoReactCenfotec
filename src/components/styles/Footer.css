@@ -1,0 +1,17 @@
+.Footer {
+    background-color: rgb(141, 128, 87);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 0.001%;
+    bottom:0%;
+    position: absolute;
+   
+  }
+
+  .FooterInfo{
+    text-align: center;
+    margin-left: 10%;
+    font-size: small;
+    width: 35%;
+    display: inline-block;
+  }

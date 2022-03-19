@@ -1,0 +1,18 @@
+.formsModal{
+  display:grid;
+  margin-top: 10px;
+}
+
+.fieldLabel{
+    font-weight: 600;
+    margin-top: 10px;
+}
+.validationError{
+    font-size: small;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.buttonSave{
+    margin-top: 10px;
+}

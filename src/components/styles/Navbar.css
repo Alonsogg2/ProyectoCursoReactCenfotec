@@ -1,0 +1,9 @@
+.Navbar{
+    width:100%;
+    background:rgb(188, 211, 233);
+    display: inline-block;
+  }
+
+.Container{
+  margin-left: 1.5%;
+}
