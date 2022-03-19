@@ -53,8 +53,8 @@ const CatalogoView =()=>{
                             <td>{catalog.nombre}</td>
                             <td>{catalog.descripcion}</td>
                             <td>{catalog.categoria}</td>
-                            <th><a onClick={()=>handleFindCatalog(catalog.idCatalogo)}>Editar</a></th>
-                            <th><a onClick={()=>handleDeleteCatalog(catalog.idCatalogo)}>Eliminar</a></th>
+                            <th><button onClick={()=>handleFindCatalog(catalog.idCatalogo)}>Editar</button></th>
+                            <th><button onClick={()=>handleDeleteCatalog(catalog.idCatalogo)}>Eliminar</button></th>
                         </tr>
                             )})}
                     </tbody>

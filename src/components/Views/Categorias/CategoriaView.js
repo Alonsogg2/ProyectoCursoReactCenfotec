@@ -60,8 +60,8 @@ const CategoriaView =({getCategories,listCategories})=>{
                             <td>{index+1}</td>
                             <td>{category.nombre}</td>
                             <td>{category.descripcion}</td>
-                            <th><a onClick={()=>handleFindCategory(category.idCategoria)}>Editar</a></th>
-                            <th><a onClick={()=>handleDeleteCategory(category.idCategoria)}>Eliminar</a></th>
+                            <th><button onClick={()=>handleFindCategory(category.idCategoria)}>Editar</button></th>
+                            <th><button onClick={()=>handleDeleteCategory(category.idCategoria)}>Eliminar</button></th>
                         </tr>
                             )})
                         }
